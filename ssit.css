@@ -1,0 +1,508 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+
+
+.divone
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(218, 243, 235);
+    padding: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    position: sticky;
+    top: 0;
+}
+.aa
+{
+    color: rgb(44, 2, 83);
+}
+.ab
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 60px;
+    font-size: 23px;
+    text-decoration: none;
+    list-style: none;
+}
+.enquirenow
+{
+    border: solid;
+    border-radius: 7px;
+    background-color: navy;
+    color: white;
+    border-color: transparent;
+    padding: 10px;
+}
+
+
+.divtwo
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(218, 243, 235) ;
+    padding: 50px;
+    border-bottom-right-radius: 15%;
+    border-bottom-left-radius: 15%;
+}
+.ba
+{
+    font-size: 30px;
+    margin-left: 5px;
+}
+.bb img
+{
+    height: 400px;
+}
+.bb
+{
+    width: 50%;
+}
+
+
+.divthree
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 10vh;
+    margin-top: 30px;
+ }
+.ca
+{
+   border: solid;
+   border-radius:20px;
+   padding:20px;
+   border-color: rgb(73, 145, 145);
+   border-width: 1.5px;
+   width: 1100px;
+   flex-direction: column; 
+   display: flex;
+   background-color: rgb(218, 243, 235) ;
+}
+.cb
+{
+   background-color: transparent;
+   padding: 10px;
+   border-radius: 15px;
+   font-size: 20px;
+   margin-left: 50px;
+   padding-left: 10px;
+   margin-bottom: 50px; 
+}
+
+
+.divfour
+{
+   margin-top: 150px;
+   text-align: center;
+   font-weight: bold;
+   background-color:rgb(218, 243, 235) ;   
+   padding: 20px;
+   font-size: 22px;
+   padding-bottom: 50px;
+   padding-top: 50px;
+}
+
+
+.divfive
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:rgb(218, 243, 235) ;
+    gap: 100px;
+}
+.ea img
+{
+    height: 85px;
+    width: 150px;
+}
+.eb img
+{
+    height: 50px;
+    width: 180px;
+}
+
+
+.divsix
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(218, 243, 235);
+    gap: 130px;
+    padding-top: 50px;
+    padding-bottom: 60px;
+}
+.hhone
+{
+    font-size:60px;
+    color: navy;
+}
+.divsix img
+{
+    height: 75px;
+    width: 150px;
+}
+.fb
+{
+    font-size: 20px;
+    font: bold;
+    color: rgb(65, 61, 61);
+}
+
+
+.divseven
+{
+ padding-bottom: 80px;
+}
+.key
+{
+    font-size:30px;
+    padding: 20px;
+    padding-top: 40px;
+    color: rgb(77, 73, 73);
+    font-weight: 900;
+}
+.i
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    font-size: 25px;
+}
+.ione
+{
+   padding-right: 50px;
+   margin-left: 10px;
+}
+.ione div
+{
+    display: flex;
+    margin-top: 40px;
+    gap: 20px;
+    color: rgb(77, 73, 73);    
+}
+.itwo
+{
+    padding-right: 100px;
+}
+.itwo div
+{
+    display: flex;
+    margin-top: 40px;
+    gap: 20px;
+    color:  rgb(77, 73, 73);
+}
+
+
+.diveight
+{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-image: linear-gradient(to right,rgb(80, 80, 174),rgb(8, 8, 58));
+    padding-top: 50px;
+    padding-bottom: 40px;
+}
+.ga
+{
+    color: white;
+    font-size: 50px;
+    padding-bottom: 20px;
+}
+.gb
+{
+    display: grid;
+    align-items: center;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 55px;
+    padding: 60px;
+}
+.gb div
+{
+    background-color: antiquewhite;
+    height: 220px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 20px;
+    text-align: center;
+    border-radius: 5%;
+    padding: 20px;
+    color: rgb(73, 71, 71);
+}
+.gb i
+{
+    font-size: 50px;
+}
+.gg
+{
+    color: white;
+    font-size: 20px;
+}
+
+
+.divten
+{
+   padding: 70px;
+   text-align: center;
+   font-size: 27px;
+}
+
+.mani
+{
+    display:flex;
+    gap:60px;
+    padding-top: 80px;
+    align-items: center;
+}
+.hone
+{
+  border:2px solid rgb(225, 209, 209);
+  border-radius: 10px;
+  background-color: rgb(218, 243, 235) ;
+}
+
+
+.ha
+{
+    display: flex;
+    gap: 20px;
+    padding: 10px;
+}
+.hb{
+    display: flex;
+    align-items: center;
+}
+.hc
+{
+    font-size: 20px;
+    justify-content: left;
+}
+.hd
+{
+    display: flex;
+}
+
+.he i
+{
+    color: gold;
+}
+.hg
+{
+    display: flex;
+    padding: 10px;
+    font-size: 20px;
+    color: gray;
+}
+
+.htwo
+{
+    border:2px solid rgb(225, 209, 209);
+    border-radius: 10px;
+    background-color: rgb(218, 243, 235) ;
+    padding: 35px;
+}
+.haa
+{
+    display: flex;
+    gap: 20px;
+    padding: 10px;
+}
+.hab{
+    display: flex;
+    align-items: center;
+}
+.hac
+{
+    font-size: 20px;
+    justify-content: left;
+}
+.had
+{
+    display: flex;
+}
+.hae i
+{
+    color: gold;
+}
+
+.hag
+{
+    display: flex;
+    padding: 10px;
+    font-size: 20px;
+    color: gray;
+    font-size: 20px;
+}
+
+
+.diveleven
+{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    background-color: rgb(37, 37, 134);
+    color: white;
+    padding: 20px;
+    padding-top: 150px;
+}
+
+.finalb img
+{
+  height: 10vh;
+}
+.finalc 
+{
+    font-size: 20px;
+    display: flex;
+    gap: 30px;
+    padding: 30px;
+}
+.finalc i
+{
+    font-size: 25px;
+    background-color: white;
+    color:rgb(37, 37, 134) ;
+}
+
+.final2a
+{
+    font-size: 22px;
+    padding-top: 35px;
+}
+.final2b
+{
+    font-size: 22px;
+    padding-top: 20px;
+
+}
+
+.finalthree p
+{
+    padding: 10px;
+    font-size: 22px;
+}
+
+.divtwelve
+{
+    background-color:rgb(37, 37, 134) ;
+    padding-top: 50px;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    padding-bottom: 30px;
+}
+
+
+@media (max-width:700px)
+{
+    .divone
+    {
+        flex-direction: column;
+      
+    }
+    .ab
+    {
+        /* flex-direction: column;
+        padding-top: 30px;
+        gap: 20px; */
+        display: none;
+    }
+    .divtwo
+    {
+        flex-direction: column;
+    }
+    .ba h1
+    {
+       font-size: 30px;
+    }
+    .bb 
+    {
+        width: auto;   
+    }
+    .bb img{
+        width: 100%; 
+        
+    }
+    .divfive
+    {
+        display: flex;
+        gap: 30px;
+        
+    }
+    .divfive div img{
+        width: 100px;
+    }
+    .divsix
+    {
+        gap: 30px; 
+    }
+    .divsix img
+    {
+       height: 20px;
+       width: 40px;
+    }
+    .divsix h1 
+    {
+        font-size: 20px;
+    }
+    .divsix p
+    {
+        font-size: 15px;
+    }
+    .divseven .i
+    {
+         flex-direction: column;
+    }    
+    .gb
+    {
+        grid-template-columns: repeat(1,1fr);
+    }
+    .h
+    {
+       font-size: 30px;
+    }
+    .mani
+    {
+         flex-direction: column;
+    }
+    .diveleven{
+        grid-template-columns: repeat(1,1fr);
+        padding-top: 50px;
+        /* gap: 80px; */
+    }
+    .finalfour{
+    /* padding-bottom: 200px; */
+}
+.divtwelve
+{
+    background-color:rgb(37, 37, 134) ;
+   
+    padding: 50px;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    padding-bottom: 30px;
+}
+.divtwelve{
+    width: 90%;
+}
+.finalfour img{
+    width: 80%;
+}
+.divten{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+}
